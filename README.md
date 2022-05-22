@@ -9,75 +9,29 @@ is a shortage of blood worldwide for deserving patients and there are only
 few platforms where blood can be donated and can be directly given to the
 clients.
 
-**Creating cosine_similarity.pickle file:**
-- *Move into Project*
-- *Open Recommendation_System folder in Jupyter notebook*
-- *Run all the line's of code one by one*
-- *After running all commands pickle file created*
-- *Put it into root directory*
+## Introduction:
+Our Blood bank system solves a problem of people who need blood at urgent
+bases as in our country there is a shortage of blood banks. If some organizations
+sell blood so most of the people cannot contact them easily as there is no proper
+mechanism for blood bank especially in government hospitals. People who are
+injured in road accidents need blood at urgent bases. Some of the people who do
+not have relatives in town and hospital do not have proper blood banks then or
+BMS comes into play and plays a vital role in saving the lives of many people. Our
+platform is directed to solve the problem for thalassemia patients who need
+blood almost every week, so they also pre-book their donor at our site
 
-## Command's needed to run FLASK API:
+## Command's needed to run the project:
 
-**Create virtual environment:**
-- *py -m venv venv*
+**Install Xampp:**
+- *https://www.apachefriends.org/download.html*
 
-**Activate virtual environment:**
-- *venv\Scripts\activate*
+**Project Configurations:**
+- *Put your project folder into Xampp/htdocs Folder.*
 
-**Install Flask:**
-- *pip install flask*
+**Start Apache & MYSQL:**
+- *Move into Xampp folder then Click on Xampp-Control & Start Apache & MySQL.*
 
-**Install sklearn:**
-- *pip install sklearn*
-
-**Install pandas:**
-- *pip install pandas*
-
-**Install nltk:**
-- *pip install nltk*
-
-**Install numpy:**
-- *pip install numpy*
-
-**Install tensorflow:**
-- *pip install tensorflow*
-
-**It allows the connectivity of api to the external sources:**
-- *pip install flask_cors*
-
-**Set the flask app:**
-- *set FLASK_APP=app*
-
-**Run now:**
-- *FLask run*
-
-## Command's needed to run VueJs:
-
-**Go to the Command Prompt:**
-- *cd Desktop(Place where you want to install dependencies for Vuejs)*
-
-**Create new vuejs project:**
-- *vue create project_name*
-
-**Please pick a preset:**
-- *Choose Manually Select Features*
-
-**Select the Features:**
-- *Choose Manually Select Features*
-
-**Select the Dependencies you want to install:**
-- *Babel, Router, CSS Pre-processor*
-
-**Choose vue version:**
-- *Select Vue 3*
-
-**Pich a linter/formatter config:**
-- *Select Eslint with Error Prevention Only*
-
-**Add node_modules**
-- *Copy node_modules folder form (current installed project) & paste it inside our project/recommend_movies.*
-
-**Running the /recommend_movies folder**
-- *num run serve*
+**Run Project:**
+- *Open Browser, Write this URL "http://localhost/Bloodbank/"*
 
 *Finally all step's are done, Thank you*

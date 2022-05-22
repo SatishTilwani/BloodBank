@@ -1,7 +1,13 @@
 # Blood Bank System
  Bootstrap, PHP & MySQL based Web Application.
 
-## Step's for creating cosine_similarity.pickle file for project:
+## Problem Statement:
+According to statistics, every two seconds someone requires blood
+donation. Family or replacement donors and paid donors still remain a
+significant source of blood for transfusion in many countries but still there
+is a shortage of blood worldwide for deserving patients and there are only
+few platforms where blood can be donated and can be directly given to the
+clients.
 
 **Creating cosine_similarity.pickle file:**
 - *Move into Project*

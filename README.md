@@ -20,7 +20,7 @@ BMS comes into play and plays a vital role in saving the lives of many people. O
 platform is directed to solve the problem for thalassemia patients who need
 blood almost every week, so they also pre-book their donor at our site
 
-## Command's needed to run the project:
+## How to run the project:
 
 **Install Xampp:**
 - *https://www.apachefriends.org/download.html*
